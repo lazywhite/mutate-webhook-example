@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"time"
 
-	m "github.com/lazywhite/admissionwebhook-example/pkg/mutate"
+	m "github.com/lazywhite/mutate-webhook-example/pkg/mutate"
 )
 
 func handleRoot(w http.ResponseWriter, r *http.Request) {

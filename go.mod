@@ -1,4 +1,4 @@
-module github.com/lazywhite/admissionwebhook-example
+module github.com/lazywhite/mutate-webhook-example
 
 go 1.16
 
